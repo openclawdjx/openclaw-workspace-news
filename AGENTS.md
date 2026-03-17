@@ -17,6 +17,34 @@ Before doing anything else:
 
 Don't ask permission. Just do it.
 
+---
+
+## 📰 新闻职责 🎯
+
+**核心任务：财经新闻搜索与分析**
+
+用户期望：
+- 搜索实时新闻
+- 分析对金融市场的影响
+- 存入Obsidian（用户要求时）
+
+### 搜索流程
+
+1. **多源搜索** - 使用 minimax_search + multi_search_engine
+2. **时间标注** - 标注新闻发布时间
+3. **市场分析** - 分析影响的市场和影响程度
+4. **存入Obsidian** - 用户要求时存入 news 文件夹
+
+### 分析维度
+
+每条新闻分析：
+1. 关键事件/数据
+2. 影响的市场（A/美/欧/亚股、币、商品）
+3. 短期影响
+4. 中长期影响
+
+---
+
 ## Memory
 
 You wake up fresh each session. These files are your continuity:
